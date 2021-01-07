@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-30T15:53:43 IST" name="Suite" finished-at="2020-12-30T15:59:07 IST" duration-ms="324171">
+    <groups>
+    </groups>
+    <test started-at="2020-12-30T15:53:43 IST" name="Test" finished-at="2020-12-30T15:59:07 IST" duration-ms="324171">
+      <class name="Assign19Annot.Testcase1">
+        <test-method is-config="true" signature="openapp()[pri:0, instance:Assign19Annot.Testcase1@343570b7]" started-at="2020-12-30T15:55:36 IST" name="openapp" finished-at="2020-12-30T15:56:09 IST" duration-ms="32467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="testcase1()[pri:0, instance:Assign19Annot.Testcase1@343570b7]" started-at="2020-12-30T15:56:09 IST" name="testcase1" finished-at="2020-12-30T15:57:10 IST" duration-ms="61443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Assign19Annot.Testcase1@343570b7]" started-at="2020-12-30T15:57:10 IST" name="closeapp" finished-at="2020-12-30T15:57:10 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Assign19Annot.Testcase1 -->
+      <class name="Assign19Annot.Testcase2">
+        <test-method is-config="true" signature="openapp()[pri:0, instance:Assign19Annot.Testcase2@157853da]" started-at="2020-12-30T15:57:10 IST" name="openapp" finished-at="2020-12-30T15:58:05 IST" duration-ms="55041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="testcase2()[pri:0, instance:Assign19Annot.Testcase2@157853da]" started-at="2020-12-30T15:58:05 IST" name="testcase2" finished-at="2020-12-30T15:59:07 IST" duration-ms="62073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Assign19Annot.Testcase2@157853da]" started-at="2020-12-30T15:59:07 IST" name="closeapp" finished-at="2020-12-30T15:59:07 IST" duration-ms="73" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Assign19Annot.Testcase2 -->
+      <class name="Assign19Annot.Testcase3">
+        <test-method is-config="true" signature="openapp()[pri:0, instance:Assign19Annot.Testcase3@3943a2be]" started-at="2020-12-30T15:53:43 IST" name="openapp" finished-at="2020-12-30T15:54:42 IST" duration-ms="58712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapp -->
+        <test-method signature="testcase2()[pri:0, instance:Assign19Annot.Testcase3@3943a2be]" started-at="2020-12-30T15:54:42 IST" name="testcase2" finished-at="2020-12-30T15:55:36 IST" duration-ms="53755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:Assign19Annot.Testcase3@3943a2be]" started-at="2020-12-30T15:55:36 IST" name="closeapp" finished-at="2020-12-30T15:55:36 IST" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- Assign19Annot.Testcase3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
